@@ -10,7 +10,7 @@ My course at Goizueta covers subjects dealing with **_Business Analytics_** (Mac
 
 ### What do I already know?
 
-In Supply Chain, I have working in **_Consulting, Operations, Planning & Strategy_**, doing Supply Network Planning, Operations Management, Process Design, Service Recovery Management, Warehouse Strategy and Design, KPI Definition, Inventory Planning and more. I have significant experience in the **_Retail Industry_** - both Offline (in Apparel) and Online Retail, and apart from these, have also done projects in **_FMCG, Beverages, Pharma, Auto Spare Parts, Commodities and 3PL Strategy._**
+In Supply Chain, I have working in **_Consulting, Operations, Planning & Strategy_**, doing Supply Network Planning, Operations Management, Process Design, Service Recovery Management, Warehouse Strategy and Design, KPI Definition, Inventory Planning and more. I have significant experience in the **_Retail Industry_** - both Offline (in Apparel) and Online Retail, and apart from these, have also done projects in FMCG, Beverages, Pharma, Auto Spare Parts, Commodities and 3PL Strategy.
 
 ### Why a Masters Degree now?
 
