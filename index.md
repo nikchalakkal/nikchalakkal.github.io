@@ -6,7 +6,7 @@ I am an business manager, with 9 years of post MBA experience in **_Supply Chain
 
 ### What's this Git about?
 
-My course at Goizueta covers subjects dealing with **_Business Analytics_** (Machine Learning, Managing Big Data, Social Networks, Data Visualization and others) through **_Techniques for Data Manipulation_** (Classification, Regression and more), and uses multiple **_Programming Languages_** (R, Python, SQL and others) and **_Tools_** (Tableau, RapidMiner, and more). This GitHub is just a collection of my random (and not so random) attempts to create something meaningful - through code and other means - out of nothing :)
+My course at Goizueta covers subjects dealing with **_Data Analytics_** (Machine Learning, Managing Big Data, Social Networks, Data Visualization and others) **_Analytics Techniques_** (Classification, Regression and more), and uses multiple **_Programming Languages_** (R, Python, SQL and others) and **_Analytics Tools_** (Tableau, RapidMiner, and more). This GitHub is just a collection of my random (and not so random) attempts to create something meaningful - through code and other means - out of nothing :)
 
 ### What do I already know?
 
