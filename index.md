@@ -2,15 +2,15 @@
 
 ### Who am I?
 
-I am an business manager, with 9 years of post MBA experience in Supply Chain Management who is currently pursuing a Masters degree in Business Analytics (MSBA) at Emory University's Goizueta Business School, expecting to graduate in May'18. This is my second Masters' Degree, having completed my MBA from the Indian Institute of Management, Ahmedabad (IIMA) in 2008, after graduating as a Chemical Engineer in 2006.
+I am an business manager, with 9 years of post MBA experience in **_Supply Chain Management_** who is currently pursuing a Masters degree in **_Business Analytics (MSBA)_** at **_Emory University's Goizueta Business School_**, expecting to graduate in May'18. This is my second Masters' Degree, having completed my MBA from the **_Indian Institute of Management, Ahmedabad (IIMA)_** in 2008, after graduating as a Chemical Engineer in 2006.
 
 ### What's this Git about?
 
-My course at Goizueta covers subjects dealing with Business Analytics (Machine Learning, Managing Big Data, Data Visualization), Techniques for Data Manipulation (Classification, Regression, and more), and uses multiple programming languages (R, Python, SQL) and tools (Tableau, RapidMiner, Jupyter, and more). This GitHub is just a collection of my random (and not so random) attempts to create something meaningful - through code and other means - out of nothing :)
+My course at Goizueta covers subjects dealing with **_Business Analytics_** (Machine Learning, Managing Big Data, Social Networks, Data Visualization and others) through **_Techniques for Data Manipulation_** (Classification, Regression and more), and uses multiple **_Programming Languages_** (R, Python, SQL and others) and **_Tools_** (Tableau, RapidMiner, and more). This GitHub is just a collection of my random (and not so random) attempts to create something meaningful - through code and other means - out of nothing :)
 
 ### What do I already know?
 
-In Supply Chain, I have working in Consulting, Operations, Planning & Strategy, doing Supply Network Planning, Operations Management, Process Design, Service Recovery Management, Warehouse Strategy and Design, KPI Definition, Inventory Planning and more. I have significant experience in Retail - both Offline (in Apparel) and Online Retail, and apart from these, have also done projects in FMCG, Beverages, Pharma, Auto Spare Parts, Commodities and 3PL Strategy.
+In Supply Chain, I have working in **_Consulting, Operations, Planning & Strategy_**, doing Supply Network Planning, Operations Management, Process Design, Service Recovery Management, Warehouse Strategy and Design, KPI Definition, Inventory Planning and more. I have significant experience in the **_Retail Industry_** - both Offline (in Apparel) and Online Retail, and apart from these, have also done projects in FMCG, Beverages, Pharma, Auto Spare Parts, Commodities and 3PL Strategy.
 
 ### Why a Masters Degree now?
 
