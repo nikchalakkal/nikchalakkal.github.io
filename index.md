@@ -2,19 +2,19 @@
 
 ### Who am I?
 
-Nikhil Chalakkal
-Class of '18, MS in Business Analytics, Emory University
-Class of '08, MBA, IIM Ahmedabad
+**Nikhil Chalakkal**  
+*Class of '18, MS in Business Analytics, Emory University*  
+*Class of '08, MBA, IIM Ahmedabad*  
 
 Business manager, with 9 years of post MBA experience in **_Supply Chain Management_**, currently pursuing a Masters degree in **_Business Analytics_**.
 
 ### What's this Git about?
 
-My course at Goizueta covers topics in: 
-**_Data Analytics_** (Machine Learning, Managing Big Data, Social Networks, Data Visualization and others) 
-**_Analytics Techniques_** (Classification, Regression and more) 
-**_Programming Languages_** (R, Python, SQL and others)
-**_Analytics Tools_** (Tableau, RapidMiner, and more) 
+My course at Goizueta covers topics in:  
+**_Data Analytics_** (Machine Learning, Managing Big Data, Social Networks, Data Visualization and others)  
+**_Analytics Techniques_** (Classification, Regression and more)  
+**_Programming Languages_** (R, Python, SQL and others)  
+**_Analytics Tools_** (Tableau, RapidMiner, and more)   
 
 This GitHub is just a collection of my random (and not so random) attempts to create something meaningful - through code and other means - out of nothing :)
 
@@ -28,6 +28,6 @@ In Supply Chain, I have working in **_Consulting, Operations, Planning & Strateg
 
 ### What about Nikhil, the person?
 
-I'm a little bit of a geek, but also a quick learner who tries to imbibe best practices from all the organizations I interact with. I am high functioning and capable of delivering consistently accurate results over long periods under pressure. In my spare time, I like to read - I spend a lot of time reading online. I have a head for really irrelevant trivia, and love making (bad) puns and playing word games.
+I'm a little bit of a geek (:grinning:), but also a quick learner who tries to imbibe best practices from all the organizations I interact with. I am high functioning and capable of delivering consistently accurate results over long periods under pressure. In my spare time, I like to read - I spend a lot of time reading online. I have a head for really irrelevant trivia, and love making (bad) puns and playing word games.
 
 Get in touch with me at nchalakkal@gmail.com.
