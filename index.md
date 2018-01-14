@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub
 
-You can use the [editor on GitHub](https://github.com/nikchalakkal/nikchalakkal.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Brief Background
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am an experienced business and people manager, with 9 years of post MBA experience in Supply Chain Management - in Consulting, Operations, Planning & Strategy. I am currently pursuing a Masters degree in Business Analytics (MSBA) at Emory University's Goizueta Business School, expecting to graduate in May'18. Prior to this, I completed my my MBA from the Indian Institute of Management, Ahmedabad (IIMA) in 2008, after graduating as a Chemical Engineer in 2006.
 
-### Markdown
+My course at Goizueta covers subjects dealing with Business Analytics (Machine Learning, Managing Big Data, Data Visualization), Techniques for Data Manipulation (Classification, Regression, and more), and uses multiple programming languages (R, Python, SQL) and tools (Tableau, RapidMiner, Jupyter, and more).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In the domain of SCM, I have expertise in Supply Network Planning, Operations Management, Process Design, Service Recovery Management, Warehouse Strategy and Design, KPI Definition, Inventory Planning and more. I have significant experience in the Apparel and Online Retail Sectors, and have also done multiple projects in FMCG, Beverages, Pharma, Auto Spare Parts, Commodities and 3PL Strategy.
 
-```markdown
-Syntax highlighted code block
+### Why a Masters Degree now?
 
-# Header 1
-## Header 2
-### Header 3
+Looking for more efficient ways to do something has been a constant driver in my life, be in at home, in school, or at work. I have learnt the value of having hard data to make judgments and inferences, as I have grown in my career, and wanted to add data management and manipulation skills to my portfolio, so I could better use data to figure out better, more efficient ways of getting business critical insights. 
 
-- Bulleted
-- List
+### About me
 
-1. Numbered
-2. List
+I am a quick learner who tries to imbibe best practices from all the organizations I interact with, and am capable of delivering excellent performance and consistently accurate results under pressure over long periods. In my spare time, I like to read - I spend a lot of time reading online. I have a head for really irrelevant trivia, and love making (bad) puns and playing word games.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nikchalakkal/nikchalakkal.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Get in touch with me at nchalakkal@gmail.com.
