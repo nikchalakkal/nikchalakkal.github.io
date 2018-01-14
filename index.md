@@ -1,22 +1,21 @@
 ## Welcome to my GitHub
 
-### Who am I?
-
 **Nikhil Chalakkal**  
-*Class of '18, MS in Business Analytics, Emory University*  
+*Class of '18, MSBA, Goizueta Business School, Emory University*  
 *Class of '08, MBA, IIM Ahmedabad*  
-
-Business manager, with 9 years of post MBA experience in **_Supply Chain Management_**, currently pursuing a Masters degree in **_Business Analytics_**.
 
 ### What's this Git about?
 
-My course at Goizueta covers topics in:  
+I am currently pursuing a Masters degree in **_Business Analytics_** from Goizueta Business School, Emory University. My course covers topics in:  
 **_Data Analytics_** (Machine Learning, Managing Big Data, Social Networks, Data Visualization and others)  
 **_Analytics Techniques_** (Classification, Regression and more)  
 **_Programming Languages_** (R, Python, SQL and others)  
 **_Analytics Tools_** (Tableau, RapidMiner, and more)   
 
 This GitHub is just a collection of my random (and not so random) attempts to create something meaningful - through code and other means - out of nothing :)
+
+### What's my background?
+I'm a business manager with 9 years of post MBA experience in **_Supply Chain Management_**.
 
 ### Why do a second Masters Degree?
 
