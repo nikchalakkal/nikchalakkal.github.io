@@ -15,7 +15,9 @@ This GitHub is just a collection of my random (and not so random) attempts to cr
 
 ### That's... somewhat interesting, I guess. But why Analytics? What's your background?
 
-I'm a business manager with 9 years of post MBA experience in **_Supply Chain Management_**. I have done *Supply Chain Consulting*, and also have experience in *Supply Chain Planning, Strategy & Operations Management* in the Retail industry (both Brick & Mortar and Online Retail). Apart from Retail industry, I have also worked on projects in FMCG, Beverages, Pharma, Auto Spare Parts, Commodities and 3PL industries as a Consultant. These projects involved Process Design, Service Recovery Management, Warehouse Strategy and Design, KPI Definition, Inventory Planning and many more.
+I'm a business manager with 9 years of post MBA experience in **_Supply Chain Management_**. I have done **_Supply Chain Consulting_**, and also have experience in **_Planning, Strategy & Operations Management_** in the Retail industry (both Brick & Mortar and Online Retail).   
+
+Apart from the Retail industry, I have also worked on projects in FMCG, Beverages, Pharma, Auto Spare Parts, Commodities and 3PL industries as a Consultant. These projects involved Process Design, Service Recovery Management, Warehouse Strategy and Design, KPI Definition, Inventory Planning and other aspects of SCM.
 
 ### That's a lot! Where all have you worked?
 
